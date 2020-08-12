@@ -1,2 +1,2 @@
-# Optimization-for-Data-Science---project-exam
-copy of repository submitted for evaluation
+# Optimization for Data Science - project exam
+copy of the repository submitted for evaluation
